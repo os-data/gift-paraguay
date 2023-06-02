@@ -462,7 +462,7 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
-      "path": "https://storage.openspending.org/mexico/pgn-gasto-2017.csv",
+      "path": "https://storage.openspending.org/paraguay/pgn-gasto-2017.csv",
       "hashcopy": "f4dff4058222c38b4d6f29376d86d3dbc73b6c0907b9c5073ad189292c17a241",
       "sample": [
         [
